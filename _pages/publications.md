@@ -5,21 +5,27 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can also find my articles on my [Google Scholar profile]({{site.author.googlescholar}}).
+[Journal Articles](#journal-articles)\
+[Conference Papers](#conference-papers)\
 
-<h2>Journal Papers</h2>
-
+{% if site.author.googlescholar %}
+  You can also find my articles on <u><a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</u>
+{% endif %}
 
 {% include base_path %}
 
+## Journal Articles
 {% for post in site.publications reversed %}
-  {% include archive-single.html %}
+  {% if post.pubtype == 'journal' %}
+      {% include archive-single.html %}
+  {% endif %}
 {% endfor %}
 
-<h2>Conference Papers</h2>
 
-{% include base_path %}
-
-{% for post in site.publications_c reversed %}
-  {% include archive-single.html %}
+## Conference Papers
+{% for post in site.publications reversed %}
+  {% if post.pubtype == 'conference' %}
+      {% include archive-single.html %}
+  {% endif %}
 {% endfor %}
+
