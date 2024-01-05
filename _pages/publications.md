@@ -20,6 +20,6 @@ You can also find my articles on my [Google Scholar profile]({{site.author.googl
 
 {% include base_path %}
 
-{% for post in site.publications_c reversed %}
+{% for post in site.publications_conference reversed %}
   {% include archive-single.html %}
 {% endfor %}
