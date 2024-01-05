@@ -4,4 +4,5 @@ collection: publications_conference
 permalink: /publication/2023-icra-surface-reconstruction
 date: 2023-07-04
 venue: 'IEEE Transactions on Intelligent Transportation Systems'
+authors: 'S. Bai, J. Lai, P. Lyu, Y. Cen, X. Sun, B. Wang'
 ---
