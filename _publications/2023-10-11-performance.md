@@ -5,5 +5,5 @@ permalink: /publication/2023-10-11-performance
 date: 2023-10-11
 venue: 'IEEE Transactions on Intelligent Transportation Systems'
 pubtype: 'journal'
-excerpt: '__S. Bai__, J. Lai, P. Lyu, Y. Cen, X. Sun, B. Wang'
+excerpt: '**S. Bai**, J. Lai, P. Lyu, Y. Cen, X. Sun, B. Wang'
 ---
