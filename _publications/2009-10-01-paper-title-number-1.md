@@ -1,4 +1,3 @@
-
 ---
 title: "Performance Enhancement of Tightly Coupled GNSS/IMU Integration Based on Factor Graph With Robust TDCP Loop Closure"
 collection: publications
