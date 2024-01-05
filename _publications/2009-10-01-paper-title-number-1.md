@@ -6,7 +6,7 @@ date: 2022-01-03 01:00:00 +0500
 venue: 'Scitech'
 paperurl: 'https://arxiv.org/pdf/2111.05904.pdf'
 doi: '10.2514/6.2022-1587'
-pubtype: 'conference'
+pubtype: 'journal'
 authors: 'I. E. Weintraub, A. Von Moll, C. Carrizales, N. Hanlon, Z. Fuchs'
 excerpt_separator: ""
 ---
