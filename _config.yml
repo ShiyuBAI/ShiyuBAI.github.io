@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Dr. Shiyu Bai"
   avatar           : "lap.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Postdoctoral Fellow at The Hong Kong Polytechnic University"
   location         : "Hong Kong"
   employer         :
   pubmed           : # example "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -103,7 +103,7 @@ author:
   impactstory      : 
   lastfm           :
   linkedin         :
-  orcid            : 
+  orcid            : "https://orcid.org/my-orcid?orcid=0009-0001-6082-6520" 
   pinterest        :
   soundcloud       :
   stackoverflow    : 
