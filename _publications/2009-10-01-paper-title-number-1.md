@@ -1,13 +1,17 @@
 ---
-permalink: /
-title: "About Me"
-excerpt: "About me"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+title: "An Optimal Engagement Zone Avoidance Scenario in 2-D"
+collection: publications
+permalink: /publication/weintraub2022optimal
+date: 2022-01-03 01:00:00 +0500
+venue: 'Scitech'
+paperurl: 'https://arxiv.org/pdf/2111.05904.pdf'
+doi: '10.2514/6.2022-1587'
+pubtype: 'conference'
+authors: 'I. E. Weintraub, A. Von Moll, C. Carrizales, N. Hanlon, Z. Fuchs'
+excerpt_separator: ""
 ---
+In this paper, an optimal control problem is considered where a target vehicle aims to reach a desired location in minimum time while avoiding a dynamic engagement zone. Using simple motion, four potential approaches are considered. First, the min-time strategy which ignores the engagement zone is posed and solved. Second, the min-time strategy which avoids the engagement zone entirely is considered. Third, the min-time strategy which allows for some time in the engagement zone; but, still strives to stay away from the center of the engagement zone is posed. Lastly, a fixed final-time strategy is considered, wherein the target tries to avoid the engagement zone; but, is required to arrive at the desired location at a specific time. Using a nonlinear program solver, the optimal strategies are numerically solved. From the results of the numeric solutions, the optimal strategies are discussed and comparisons are drawn.
 
-I am a Postdoctoral Fellow from the Department of Aeronautical and Aviation Engineering, the Hong Kong Polytechnic University. My research interest includes indoor localization, inertial navigation, sensor fusion, and vehicle navigation.
+[Download paper here](https://arxiv.org/pdf/2111.05904.pdf)
 
-I am advised by [Dr. Weisong Wen](https://www.polyu.edu.hk/aae/people/academic-staff/dr-wen-weisong/) and [Dr. Li-Ta Hsu](https://www.polyu.edu.hk/en/aae/people/academic-staff/dr-hsu-li-ta/), the Hong Kong Polytechnic University. I was advised by [Prof. Jizhou Lai](http://cae.nuaa.edu.cn/2018/0906/c13664a132081/page.htm) and [Assoc. Prof. Pin Lyu](http://cae.nuaa.edu.cn/2020/0908/c13665a214941/page.htm) from the [College of Automation Engineering](http://cae.nuaa.edu.cn/main.htm), Nanjing University of Aeronautics and Astronautics.
+DOI: [10.2514/6.2022-1587](https://doi.org/10.2514/6.2022-1587)
