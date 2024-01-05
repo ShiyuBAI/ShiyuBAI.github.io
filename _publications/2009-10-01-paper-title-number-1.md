@@ -1,11 +1,10 @@
 ---
-title: "Curvature Constrained Paths to Intercept a Target Moving on a Circle"
+title: "A Curvature and Trajectory Optimization-based 3D Surface Reconstruction Pipeline for Ultrasound Trajectory Generation"
 collection: publications
-permalink: /publication/manyam2020curvature
-date: 2020-12-31 01:00:00 +0500
-venue: 'Transactions on Automation Science and Engineering (<b><i>Submitted for Review</i></b>)'
-pubtype: 'journal'
-authors: 'S. G. Manyam, D. W. Casbeer, A. Von Moll, Z. Fuchs'
-excerpt_separator: ""
+permalink: /publication/2023-icra-surface-reconstruction
+excerpt: 'This work introduces a Novel 3D surface reconstruction pipeline which feeds into automated ultrasound scanning trajectory
+generation and comprehensive evaluation score for quantifying the quality of reconstructed point clouds.'
+date: 2023-07-04
+venue: 'IEEE International Conference on Robotics and Automation (ICRA) 2023'
+citation: 'A. Bal, A. Gupta, F. Abhimanyu, J. Galeotti and H. Choset, ”A Curvature and Trajectory Optimization-based 3D Surface Reconstruction Pipeline for Ultrasound Trajectory Generation,” IEEE International Conference on Robotics and Automation (ICRA), London, UK, 2023, pp. 2724-2730'
 ---
-
