@@ -16,3 +16,10 @@ You can also find my articles on my [Google Scholar profile]({{site.author.googl
   {% include archive-single.html %}
 {% endfor %}
 
+<h2>Conference Papers</h2>
+
+{% include base_path %}
+
+{% for post in site.publications_c reversed %}
+  {% include archive-single.html %}
+{% endfor %}
