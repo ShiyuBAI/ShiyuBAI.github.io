@@ -1,9 +1,11 @@
 ---
-title: "Performance Enhancement of Tightly Coupled GNSS/IMU Integration Based on Factor Graph With Robust TDCP Loop Closure"
+title: "Curvature Constrained Paths to Intercept a Target Moving on a Circle"
 collection: publications
-permalink: /publication/bai2023performance
-date: 2023
-venue: 'IEEE Transactions on Intelligent Transportation Systems'
-authors: 'S. Bai, J. Lai, P. Lyu, Y. Cen, X. Sun, B. Wang'
+permalink: /publication/manyam2020curvature
+date: 2020-12-31 01:00:00 +0500
+venue: 'Transactions on Automation Science and Engineering (<b><i>Submitted for Review</i></b>)'
+pubtype: 'journal'
+authors: 'S. G. Manyam, D. W. Casbeer, A. Von Moll, Z. Fuchs'
+excerpt_separator: ""
 ---
 
