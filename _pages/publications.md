@@ -6,7 +6,8 @@ author_profile: true
 ---
 
 [Journal Articles](#journal-articles)\
-[Conference Papers](#conference-papers)
+[Conference Papers](#conference-papers)\
+[Patents](#patents)\
 
 You can also find my articles on my [Google Scholar profile]({{site.author.googlescholar}}).
 
@@ -27,3 +28,9 @@ You can also find my articles on my [Google Scholar profile]({{site.author.googl
   {% endif %}
 {% endfor %}
 
+## Patents
+{% for post in site.publications reversed %}
+  {% if post.pubtype == 'patent' %}
+      {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
