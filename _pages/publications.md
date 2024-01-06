@@ -7,7 +7,7 @@ author_profile: true
 
 [Journal Articles](#journal-articles)\
 [Conference Papers](#conference-papers)\
-[Patents](#patents)\
+[Patents](#patents)
 
 You can also find my articles on my [Google Scholar profile]({{site.author.googlescholar}}).
 
